@@ -1,4 +1,4 @@
-### hi! it's Hoang here, and I'm building [Monkiiboard.](monkiiboard.com)
+### Hi! It's Hoang here, and I'm building [Monkiiboard.](monkiiboard.com)
 
 Since young, i've always liked disassembling things, but sometimes, it is hard to reassemble them back though.
 
@@ -21,13 +21,12 @@ Since young, i've always liked disassembling things, but sometimes, it is hard t
 
 ## Builds (a lot more incoming)
 
-| MonkiiPad20 | MonkiiBoard39 | MonkiiPad3x3 | MonkiiPad20 PCB | Zombie Survival on a Tang Nano 4K |
-|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/Simbashrek276/MonkiiBoard_Keyboards/main/Medias/MonkiiPad20/MonkiiPad20_top_view.jpg" width="200"/> | <img src="https://raw.githubusercontent.com/Simbashrek276/MonkiiBoard_Keyboards/main/Medias/MonkiiBoard39/MonkiiBoard39_angledview.jpg" width="200"/> | <img src="https://raw.githubusercontent.com/Simbashrek276/MonkiiBoard_Keyboards/main/Medias/MonkiiPad3x3/MonkiiPad3x3_top_view.jpg" width="200"/> | <img src="https://raw.githubusercontent.com/Simbashrek276/MonkiiBoard_Keyboards/main/Medias/MonkiiPad20/MonkiiPad20_PCB/MonkiiPad20_PCB.jpg" width="200"/> | <img
-src="https://raw.githubusercontent.com/Simbashrek276/Zombie-survival-game-fpga/images/buttons.jpg" width="200"/> |
+| MonkiiPad20 | MonkiiBoard39 | MonkiiPad3x3 | MonkiiPad20 PCB | Zombie Survival (FPGA) |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/Simbashrek276/MonkiiBoard_Keyboards/main/Medias/MonkiiPad20/MonkiiPad20_top_view.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/Simbashrek276/MonkiiBoard_Keyboards/main/Medias/MonkiiBoard39/MonkiiBoard39_angledview.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/Simbashrek276/MonkiiBoard_Keyboards/main/Medias/MonkiiPad3x3/MonkiiPad3x3_top_view.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/Simbashrek276/MonkiiBoard_Keyboards/main/Medias/MonkiiPad20/MonkiiPad20_PCB/MonkiiPad20_PCB.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/Simbashrek276/<REPO_NAME>/main/<PATH_TO>/buttons.jpg" width="160"/> |
 
+All the files to build your own MonkiiBoards are found here at [MonkiiBoard_Keyboards.](https://github.com/Simbashrek276/MonkiiBoard_Keyboards)  
 
-All the files to build your own MonkiiBoards are found here at [MonkiiBoard_Keyboards.](https://github.com/Simbashrek276/MonkiiBoard_Keyboards)
 Again, come check out our whole story here: [MonkiiBoard.](monkiiboard.com)
 
 peace.
