@@ -8,9 +8,9 @@
 
 **Prospective Electrical Engineering Major** · The Dewey School, Class of 2027
 
-<a href="https://drive.google.com/file/d/1hHXFvWdkVnKyF7-VkqrhHhOMOfq6KSkR/view?usp=sharing">Resume</a> · <a href="https://monkiiboard.com">Website</a> · <a href="https://www.youtube.com/@gomonkiiboard">YouTube</a> · <a href="https://www.instagram.com/go_monkiiboard/">Instagram</a> · <a href="https://github.com/Simbashrek276/MonkiiBoard_Keyboards">Projects</a>
+<a href="https://drive.google.com/drive/folders/1BFVVmQ3QBUyOTTLp1HZsr7EzWfzYBr1I?usp=sharing">Portfolio & CV</a> · <a href="https://monkiiboard.com">Website</a> · <a href="https://www.youtube.com/@gomonkiiboard">YouTube</a> · <a href="https://www.instagram.com/go_monkiiboard/">Instagram</a> · <a href="https://github.com/Simbashrek276/MonkiiBoard_Keyboards">Projects</a>
 
-<a href="https://drive.google.com/file/d/1hHXFvWdkVnKyF7-VkqrhHhOMOfq6KSkR/view?usp=sharing"><img src="https://img.shields.io/badge/Full%20Resume-8ECAE6?style=for-the-badge&logo=googledrive&logoColor=111111"/></a>
+<a href="https://drive.google.com/drive/folders/1BFVVmQ3QBUyOTTLp1HZsr7EzWfzYBr1I?usp=sharing"><img src="https://img.shields.io/badge/Portfolio%20%26%20CV-8ECAE6?style=for-the-badge&logo=googledrive&logoColor=111111"/></a>
 
 </div>
 
@@ -37,60 +37,6 @@ Right now, aside from other past projects, I'm currently building **MonkiiBoard*
 ![Pro Micro](https://img.shields.io/badge/Pro%20Micro-111111?style=for-the-badge)
 ![RP2040-Zero](https://img.shields.io/badge/RP2040--Zero-111111?style=for-the-badge)
 ![ESP32-S3](https://img.shields.io/badge/ESP32--S3-111111?style=for-the-badge)
-
----
-
-## Awards
-
-<div align="center">
-
-| **Award**                  | **Competition**                                                                   | **Year** |
-| :------------------------- | :-------------------------------------------------------------------------------- | :------: |
-| **1st Prize** / 50+ teams  | Vietnam National Youth AI Hackathon · STEAM for Vietnam, HUST, UNICEF, US Embassy |   2025   |
-| **3rd Prize** / 14 teams   | TSIC × Synopsys Summer Camp FPGA Hackathon                                        |   2026   |
-| **Silver Award**           | British Physics Olympiad · Online Senior Physics Challenge                        |   2026   |
-| **Top 7**                  | FPT Software Computer Talents Club · FCT AI Hackathon                             |   2025   |
-| **Top 100 Global**         | Blue Ocean Student Entrepreneur Competition                                       |   2025   |
-
-</div>
-
----
-
-## Experience
-
-**Founder & Technical Project Lead · [MonkiiBoard](https://monkiiboard.com)** &nbsp; `Jul 2024 – Present`
-
-Designed 5 open source keyboards and 4 PCBs, built a website with a firmware generator, and wrote 10+ build from scratch guides. The community has grown to 1,700+ followers, with 2.4M+ views across YouTube and Instagram.
-
-**Lab Assistant · EDABK Research Lab, HUST** &nbsp; `Feb 2026 – Present`
-
-Embedded Systems and Integrated Circuit Research Lab, Hanoi University of Science and Technology. Built a GNSS / GPS parser in C for a screenless biometric IoT wristband, and studied PCB design under **Prof. Duc Minh Nguyen**.
-
-**Student Researcher & Lead Developer · Phenikaa University** &nbsp; `Jun 2026 – Oct 2026`
-
-Built a Python Monte Carlo simulator of 13.6 TeV proton–proton collisions in a team of 3, advised by **Prof. Duc Ninh Le**.
-
-**Co-Founder · [Heritage Guessr](https://heritageguessr.com/)** &nbsp; `Apr 2025 – Present`
-
-AI web game documenting 124+ Vietnamese heritage sites through 3D virtual environments. Partnered with 2 schools, reaching 390+ students.
-
-**Student Researcher & Developer · Context Grounded QA Assistant** &nbsp; `Jun 2023 – Apr 2024`
-
-Self directed NLP research, consulting **Dr. Duc Tri Phan, Nanyang Technological University**.
-
-**President & Technical Lead · School Coding Club** &nbsp; `2024 – Present`
-
-Lead 10+ members in weekly Python and C workshops, and host a yearly game development contest on Scratch and Pygame.
-
-**Volunteer & Content Creator · VISEMI Foundation** &nbsp; `2026 – Present`
-
-Nonprofit building Vietnam's semiconductor talent pipeline. Wrote and edited 2 video podcast episodes interviewing Vietnamese IC designers (11k+ views).
-
-**Certificates**
-
-`From Nand to Tetris · Hebrew University · Built an ALU and RAM in HDL · 2024`
-
-`Mastering KiCad: Open Source PCB Design · Coursera · 2025`
 
 ---
 
@@ -204,7 +150,7 @@ Compact 3 × 3 macropad with a switchable input layer. The first keyboard I ever
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8ECAE6&height=3" width="100%"/>
 
-## Competitions
+## Hackathon Projects
 
 ### Heritage Guessr · 1st Prize
 
@@ -305,26 +251,6 @@ Started as a self directed project in 9th grade, then written up as a research r
 </div>
 
 <a href="https://github.com/Simbashrek276/Context-Grounded-AI-Chatbot">Repository →</a>
-
----
-
-## Other Projects
-
-### Motorola S-Record Parser
-
-Reads Motorola S-record firmware files, verifies the checksum on every line and writes out the address and data of each record.
-
-`C` · `Firmware` · `Checksums`
-
-<a href="https://github.com/Simbashrek276/Motorola-S-Record-Parser">Repository →</a>
-
-### Delivery Tracking System
-
-Delivery tracking system built with object oriented programming.
-
-`Python` · `OOP`
-
-<a href="https://github.com/Simbashrek276/Delivery-Tracking-System-Py-OOP">Repository →</a>
 
 ---
 
