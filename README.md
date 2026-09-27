@@ -170,7 +170,7 @@ AI chatbot for patient pre-screening and inquiries, built with **Python** and **
 
 Led a team of 3 at the **FCT AI Hackathon** by FPT Software Computer Talents Club.
 
-<a herf="https://github.com/PhucPhamHong-dev/Receptra"> Repository →</a>
+<a href="https://github.com/PhucPhamHong-dev/Receptra"> Repository →</a>
 
 ### Zombie Survival · 3rd Prize
 
