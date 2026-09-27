@@ -8,7 +8,7 @@
 
 **Prospective Electrical Engineering Major** · The Dewey School, Class of 2027
 
-<a href="https://drive.google.com/drive/folders/1BFVVmQ3QBUyOTTLp1HZsr7EzWfzYBr1I?usp=sharing">Portfolio & CV</a> · <a href="https://monkiiboard.com">Website</a> · <a href="https://www.youtube.com/@gomonkiiboard">YouTube</a> · <a href="https://www.instagram.com/go_monkiiboard/">Instagram</a> · <a href="https://github.com/Simbashrek276/MonkiiBoard_Keyboards">Projects</a>
+<a href="https://drive.google.com/drive/folders/1BFVVmQ3QBUyOTTLp1HZsr7EzWfzYBr1I?usp=sharing">Portfolio & CV</a> · <a href="https://monkiiboard.com">Website</a> · <a href="https://www.youtube.com/@gomonkiiboard">YouTube</a> · <a href="https://www.instagram.com/go_monkiiboard/">Instagram</a> · <a href="https://github.com/Simbashrek276?tab=repositories">Projects</a>
 
 <a href="https://drive.google.com/drive/folders/1BFVVmQ3QBUyOTTLp1HZsr7EzWfzYBr1I?usp=sharing"><img src="https://img.shields.io/badge/Portfolio%20%26%20CV-8ECAE6?style=for-the-badge&logo=googledrive&logoColor=111111"/></a>
 
@@ -170,13 +170,15 @@ AI chatbot for patient pre-screening and inquiries, built with **Python** and **
 
 Led a team of 3 at the **FCT AI Hackathon** by FPT Software Computer Talents Club.
 
+<a herf="https://github.com/PhucPhamHong-dev/Receptra"> Repository →</a>
+
 ### Zombie Survival · 3rd Prize
 
 Hardware survival game running directly on a **Tang Nano 4K FPGA**, drawn straight out to HDMI at 640 × 480.
 
 `Verilog` · `FPGA` · `HDMI` · `Physical input`
 
-Built in 4 days at the **TSIC × Synopsys Summer Camp** hackathon, where I led our 5 member Team 7A from never writing a line of Verilog to a live demo in front of the judges. We won **3rd Prize in the Creative Ideation Award** out of 14 teams.
+Built in 4 days at the **TSIC × Synopsys Summer Camp** hackathon in Taiwan, where I led our 5 member Team 7A from never writing a line of Verilog to a live demo in front of the judges. We won **3rd Prize in the Creative Ideation Award** out of 14 teams.
 
 <div align="center">
 
